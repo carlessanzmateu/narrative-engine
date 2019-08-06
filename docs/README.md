@@ -1,4 +1,9 @@
 ---
+meta:
+  - name: Narrative Engine
+    content: El juego de rol narrativo altamente modular.
+  - name: keywords
+    content: juego de rol narrativo modular
 home: true
 actionText: Empezar →
 actionLink: /guide/
