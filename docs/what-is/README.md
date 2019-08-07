@@ -7,7 +7,13 @@ meta:
   - name: keywords
     content: que es narrative engine
 ---
-# ¿Qué es Narrative Engine?
+::: warning
+WIP: Warning
+
+Este sitio está en construcción, así que el contenido puede contener erratas, faltas ortográficas o variar antes de su lanzamiento. Disculpad las molestias.
+:::
+
+# Narrative Engine: ¿Qué es?
 
 ## ¿Qué es un juego de rol?
 

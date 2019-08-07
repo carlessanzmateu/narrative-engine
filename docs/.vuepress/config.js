@@ -4,8 +4,13 @@ module.exports = {
   themeConfig: {
     nav: [
       {text: 'Home', link: '/'},
-      {text: '¿Qué es?', link: '/what-is/'},
-      {text: 'Cómo funciona', link: '/how-it-works/'}
-    ]
+      {text: 'Manual', link: '/manual/'},
+      {text: '¿Qué es?', link: '/what-is/'}
+    ],
+    sidebar: {
+      '/manual/': [
+        ''
+      ]
+    }
   }
 }

@@ -6,11 +6,11 @@ meta:
     content: juego de rol narrativo modular
 home: true
 actionText: Empezar →
-actionLink: /guide/
+actionLink: /manual/
 features:
-- title: Puramente narrativo
+- title: Narrativo
   details: El gran foco de este sistema son las partidas narrativas. No tendrás que preocuparte de nada más que de crear una partida altamente inmersiva, Narrative Engine se encarga del resto de cosas por ti para que lo demás sea fácil.
-- title: Altamente modular
+- title: Modular
   details: Narrative Engine es un juego narrativo, pero gracias al sistema de modulos, podrás repartir estopa a toda la mazmorra antes de que el master acabe contigo o implementar todo lo necesario para tu partida sci-fi.
 - title: Polivalente
   details: Narrative Engine no es una ambientación, es un sistema de juego y viene de serie con todo lo necesario para jugar en cualquier mundo que le plantees. Te retamos a verificar lo solido que es incluyendo todas las ambientaciones que se te ocurran en una sola partida.
@@ -18,5 +18,8 @@ features:
   details: Narrative Engines es totalmente gratuito y se entrega como és. Además, incluye y con el tiempo cada vez más, campañas y partidas para poder disfrutar del sisterma de juego y conocerlo en profunidad.
 footer: MIT Licensed | Copyright © 2018-present @CarlesSanzMateu
 ---
+::: warning
+WIP: Warning
 
-# Hello VuePress
+Este sitio está en construcción, así que el contenido puede contener erratas, faltas ortográficas o variar antes de su lanzamiento. Disculpad las molestias.
+:::
